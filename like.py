@@ -1,1 +1,1 @@
-﻿
+﻿print('hello everyone, wellcome!----by DaDiao')
